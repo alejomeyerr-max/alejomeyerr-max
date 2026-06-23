@@ -4,7 +4,7 @@ Este repositorio está dedicado exclusivamente al diseño, documentación y cód
 
 ---
 
-## 🚀 El Proyecto: EIEN-System
+## 🚀 El Proyecto: [EIEN-System](https://github.com/alejomeyerr-max/Proyecto_Eien-System)
 
 Este proyecto es un sistema de gestión logística de alta precisión para Kizuna Logística S.A.S. Desarrollado bajo estándares de eficiencia Japonesa. (Kizuna Logísitca S.A.S es una empresa de logísitca ficticia creada para fines académicos).
 
