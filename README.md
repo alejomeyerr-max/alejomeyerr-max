@@ -24,7 +24,7 @@ Este perfil está enfocado en mi etapa de formación académica e institucional.
 
 Si quieres ver de lo que soy capaz fuera de la academia, te invito a explorar mi portafolio principal:
 
-🚀 **[VISITA MI PORTAFOLIO Y GITHUB PRINCIPAL AQUÍ](https://github.com/Ma-NyxX)**
+🚀 **[VISITA MI PORTAFOLIO Y GITHUB PRINCIPAL AQUÍ](https://github.com/Ze-nit-su)**
 
 > *Ahí encontrarás proyectos con tecnologías más recientes, arquitecturas limpias y el reflejo de mi pasión diaria por el código.*
 
