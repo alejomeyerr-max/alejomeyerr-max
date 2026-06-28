@@ -34,4 +34,4 @@ Si quieres ver de lo que soy capaz fuera de la academia, te invito a explorar mi
 
 Si quieres conocer más sobre este proyecto del SENA o charlar sobre oportunidades laborales:
 
-* **[Email](ee.kamishiro.souji+GitHub@outlook.com)**
+* **[Email](hikari.robots@outlook.com)**
